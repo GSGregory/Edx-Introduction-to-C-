@@ -1,0 +1,7 @@
+P:\Local\Edx\Mod3_Lab2\Mod3_Lab2\bin\Debug\Mod3_Lab2.exe.config
+P:\Local\Edx\Mod3_Lab2\Mod3_Lab2\bin\Debug\Mod3_Lab2.exe
+P:\Local\Edx\Mod3_Lab2\Mod3_Lab2\bin\Debug\Mod3_Lab2.pdb
+P:\Local\Edx\Mod3_Lab2\Mod3_Lab2\obj\Debug\Mod3_Lab2.csprojResolveAssemblyReference.cache
+P:\Local\Edx\Mod3_Lab2\Mod3_Lab2\obj\Debug\Mod3_Lab2.csproj.CoreCompileInputs.cache
+P:\Local\Edx\Mod3_Lab2\Mod3_Lab2\obj\Debug\Mod3_Lab2.exe
+P:\Local\Edx\Mod3_Lab2\Mod3_Lab2\obj\Debug\Mod3_Lab2.pdb

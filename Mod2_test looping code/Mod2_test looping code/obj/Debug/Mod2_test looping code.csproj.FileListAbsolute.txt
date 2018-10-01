@@ -1,0 +1,7 @@
+P:\Local\Edx\Mod2_test looping code\Mod2_test looping code\obj\Debug\Mod2_test looping code.csprojResolveAssemblyReference.cache
+P:\Local\Edx\Mod2_test looping code\Mod2_test looping code\obj\Debug\Mod2_test looping code.csproj.CoreCompileInputs.cache
+P:\Local\Edx\Mod2_test looping code\Mod2_test looping code\bin\Debug\Mod2_test looping code.exe.config
+P:\Local\Edx\Mod2_test looping code\Mod2_test looping code\bin\Debug\Mod2_test looping code.exe
+P:\Local\Edx\Mod2_test looping code\Mod2_test looping code\bin\Debug\Mod2_test looping code.pdb
+P:\Local\Edx\Mod2_test looping code\Mod2_test looping code\obj\Debug\Mod2_test looping code.exe
+P:\Local\Edx\Mod2_test looping code\Mod2_test looping code\obj\Debug\Mod2_test looping code.pdb

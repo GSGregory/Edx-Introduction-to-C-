@@ -1,0 +1,7 @@
+P:\Local\Edx\Mod3_Self_Assessment\Mod3_Self_Assessment\obj\Debug\Mod3_Self_Assessment.csprojResolveAssemblyReference.cache
+P:\Local\Edx\Mod3_Self_Assessment\Mod3_Self_Assessment\obj\Debug\Mod3_Self_Assessment.csproj.CoreCompileInputs.cache
+P:\Local\Edx\Mod3_Self_Assessment\Mod3_Self_Assessment\bin\Debug\Mod3_Self_Assessment.exe.config
+P:\Local\Edx\Mod3_Self_Assessment\Mod3_Self_Assessment\bin\Debug\Mod3_Self_Assessment.exe
+P:\Local\Edx\Mod3_Self_Assessment\Mod3_Self_Assessment\bin\Debug\Mod3_Self_Assessment.pdb
+P:\Local\Edx\Mod3_Self_Assessment\Mod3_Self_Assessment\obj\Debug\Mod3_Self_Assessment.exe
+P:\Local\Edx\Mod3_Self_Assessment\Mod3_Self_Assessment\obj\Debug\Mod3_Self_Assessment.pdb
